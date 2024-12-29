@@ -14,3 +14,11 @@ const advice = [
 function getRandomElement(array) {
     return array[Math.floor(Math.random() * array.length)];
 }
+
+//Function to generate a random astrology message
+function generateAstrologyMessage() {
+    const sign = getRandomElement(zodiacSigns);
+    const theme = getRandomElement(themes);
+    const prediction = getRandomElement(advice);
+    return `${sign}: In matters of ${theme}, ${prediction}`;
+}
