@@ -22,3 +22,7 @@ function generateAstrologyMessage() {
     const prediction = getRandomElement(advice);
     return `${sign}: In matters of ${theme}, ${prediction}`;
 }
+
+// Output the message
+console.log("Astrology Forecast of the Day:")
+console.log(generateAstrologyMessage());
