@@ -9,3 +9,8 @@ const advice = [
     "Focus on balance and clarity for a successful day.",
     "Keep an open mind and embrace new experiences."
 ];
+
+// Function to get a random element from an array
+function getRandomElement(array) {
+    return array[Math.floor(Math.random() * array.length)];
+}
