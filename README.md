@@ -1,7 +1,7 @@
 # Astrology Message Generator 🌌✨
 
 ## Description ##
-The Astrology Message Generator is a simple Node.js program that provides a fun, random astrology forecast. Each time the program runs, it generates a unique message based on a randomly selected zodiac sign, a theme (e.g., love, career, health), and a piece of advice.
+The Astrology Message Generator is a simple program that provides a fun, random astrology forecast. Each time the program runs, it generates a unique message based on a randomly selected zodiac sign, a theme (e.g., love, career, health), and a piece of advice.
 
 ![Astrology Message Generator](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWlweGQxZWYwcnlhcjQ0dDNnNWU2ZGY5M21kcmFiMnJoZjlvZ2draiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eiyuK1xnFcFON6zVR5/giphy.gif)
 
